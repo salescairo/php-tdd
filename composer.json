@@ -1,0 +1,16 @@
+{
+    "name": "salescairo/php-tdd",
+    "description": "PHP WITH TDD",
+    "authors": [
+        {
+            "name": "Cairo Sales",
+            "email": "cairoosf@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
